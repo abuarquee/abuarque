@@ -17,4 +17,4 @@ __2016__: "Licenciatura" in Physics, Universidade Federal de Alagoas, Brazil.
 * Correlated particles; 
 * Transport properties in nanostructured systems.
 
-__Don't hesitate to leave me a message: E-mail__: abuarque@fis.ufal.br
+__E-mail__: abuarque@fis.ufal.br
