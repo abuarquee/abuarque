@@ -1,37 +1,20 @@
 ## Welcome to my personal web page
 
-You can use the [editor on GitHub](https://github.com/abuarquee/abuarque/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Anderson Buarque 
+# Citation: A. R. C. Buarque
+I am a Ph.D. candidate at the Physics Institute of Federal University of Alagoas in Maceió, Brazil. My research is about transport properties and quantum entanglement in quantum walks.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Formal education
+__2021__ - current​ : Ph.D. in progress in Physics, Universidade Federal de Alagoas, Brazil.
 
-### Markdown
+__2018__: M.S. in Physics, Universidade Federal de Alagoas, Brazil.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+__2016__: "Licenciatura" in Physics, Universidade Federal de Alagoas, Brazil.
 
-```markdown
-Syntax highlighted code block
+## Areas of interest
+* Quantum walks;
+* Quantum information; 
+* Correlated particles; 
+* Transport properties in nanostructured systems.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/abuarquee/abuarque/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+__Don't hesitate to leave me a message: E-mail__: abuarque@fis.ufal.br
